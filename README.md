@@ -1,4 +1,4 @@
-# Discord-Account-Backup-Bot
+
 Automatically saves your Discord friends, servers and loads them.<br/>
 This could be useful as Discord can ban you at any time, for any unreliable reason.
 
